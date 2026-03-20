@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yarlagadda Trinath</h1>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=2F80ED&background=FFFFFF00&width=550&lines=MSc+Graduate+in+Physics;Diploma+in+Data+Science;Interested+in+AI,+ML+and+Computational+Science;Exploring+High-Performance+Computing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=2F80ED&background=FFFFFF00&width=550&lines=MSc+Graduate+in+Physics;Diploma+in+Data+Science;Interested+in+AI,+ML+and+AI+Research;Exploring+High-Performance+Computing" />
 </a>
 
 ---
