@@ -52,11 +52,5 @@
   <img src="https://img.shields.io/badge/Triton-000000?logo=triton&logoColor=white" />
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trinath3&show_icons=true&locale=en&layout=compact" />
-</p>
 
